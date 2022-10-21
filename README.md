@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code for almost a year now at ALX - Holberton School. You can check up some the wonderful projects I've worked on. You may draw inspiration from them.
+I've been learning to code for almost a year now at ALX - Holberton School. You can check up some of the wonderful projects I've worked on. You may draw inspiration from them.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:paaqwadwo419@gmail.com)
