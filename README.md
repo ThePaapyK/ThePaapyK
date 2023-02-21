@@ -8,7 +8,7 @@ I've been coding for almost a year now at ALX-Holberton School. I began with C, 
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:paaqwadwo419@gmail.com)
-* 🧠  I'm learning Building of Linux shells
+* 🧠  I'm currently creating a shooting game
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm secretly a super genius... but I don't tell anyone😂
 
