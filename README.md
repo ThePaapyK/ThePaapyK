@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paa Kojo Annan
 ======================================================================================================================================
 
-Software Engineer
------------------
-
-I've been coding for almost a year now at ALX-Holberton School. I began with C, but now I've gained proficiency in other languages such as python. You may draw inspiration from some of the projects I've worked on.
+Software Engineer•ALX Alumni•Electrical and Electronic Engineering student.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:paaqwadwo419@gmail.com)
