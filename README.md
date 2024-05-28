@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paa Kojo Annan
 ======================================================================================================================================
 
-Software Engineer•ALX Alumni•Electrical and Electronic Engineering student.
+Software Engineer•ALX Alumni.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:pkeannan77@gmail.com)
