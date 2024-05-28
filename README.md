@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer•ALX Alumni•Electrical and Electronic Engineering student.
 
 * 🌍  I'm based in Ghana
-* ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:paaqwadwo419@gmail.com)
+* ✉️  You can contact me at [paaqwadwo419@gmail.com](mailto:pkeannan77@gmail.com)
 * 🧠  I'm currently creating a shooting game
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm secretly a super genius... but I don't tell anyone😂
